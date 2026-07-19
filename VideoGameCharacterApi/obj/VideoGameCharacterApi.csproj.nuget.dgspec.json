@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\work\\aspdotnet\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj": {}
+    "C:\\work\\aspdotnet\\VideoGameCharacter\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj": {}
   },
   "projects": {
-    "C:\\work\\aspdotnet\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj": {
+    "C:\\work\\aspdotnet\\VideoGameCharacter\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\aspdotnet\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
+        "projectUniqueName": "C:\\work\\aspdotnet\\VideoGameCharacter\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
         "projectName": "VideoGameCharacterApi",
-        "projectPath": "C:\\work\\aspdotnet\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
+        "projectPath": "C:\\work\\aspdotnet\\VideoGameCharacter\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
         "packagesPath": "C:\\Users\\Cole\\.nuget\\packages\\",
-        "outputPath": "C:\\work\\aspdotnet\\VideoGameCharacterApi\\VideoGameCharacterApi\\obj\\",
+        "outputPath": "C:\\work\\aspdotnet\\VideoGameCharacter\\VideoGameCharacterApi\\VideoGameCharacterApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -55,10 +55,6 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.10, )"
-            },
-            "Microsoft.OpenApi": {
-              "target": "Package",
-              "version": "[3.9.0, )"
             },
             "Scalar.AspNetCore": {
               "target": "Package",

@@ -1,12 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "sxc51QgD9f4=",
+  "dgSpecHash": "tr9ziWzvCSY=",
   "success": true,
-  "projectFilePath": "C:\\work\\aspdotnet\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
+  "projectFilePath": "C:\\work\\aspdotnet\\VideoGameCharacter\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cole\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
-    "C:\\Users\\Cole\\.nuget\\packages\\microsoft.openapi\\3.9.0\\microsoft.openapi.3.9.0.nupkg.sha512",
+    "C:\\Users\\Cole\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
     "C:\\Users\\Cole\\.nuget\\packages\\scalar.aspnetcore\\2.16.15\\scalar.aspnetcore.2.16.15.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\work\\aspdotnet\\VideoGameCharacter\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\work\\aspdotnet\\VideoGameCharacter\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }
