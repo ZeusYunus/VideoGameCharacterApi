@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\work\\aspdotnet\\VideoGameCharacterApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E0CD3C69-57E1-53BF-A39D-4F9C232F05A9}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|c:\\work\\aspdotnet\\videogamecharacterapi\\videogamecharacterapi\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CD3C69-57E1-53BF-A39D-4F9C232F05A9}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|solutionrelative:videogamecharacterapi\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0CD3C69-57E1-53BF-A39D-4F9C232F05A9}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|c:\\work\\aspdotnet\\videogamecharacterapi\\videogamecharacterapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0CD3C69-57E1-53BF-A39D-4F9C232F05A9}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|solutionrelative:videogamecharacterapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CD3C69-57E1-53BF-A39D-4F9C232F05A9}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|c:\\work\\aspdotnet\\videogamecharacterapi\\videogamecharacterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CD3C69-57E1-53BF-A39D-4F9C232F05A9}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|solutionrelative:videogamecharacterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CD3C69-57E1-53BF-A39D-4F9C232F05A9}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|c:\\work\\aspdotnet\\videogamecharacterapi\\videogamecharacterapi\\videogamecharacterapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0CD3C69-57E1-53BF-A39D-4F9C232F05A9}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|solutionrelative:videogamecharacterapi\\videogamecharacterapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0CD3C69-57E1-53BF-A39D-4F9C232F05A9}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|c:\\work\\aspdotnet\\videogamecharacterapi\\videogamecharacterapi\\videogamecharacterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E0CD3C69-57E1-53BF-A39D-4F9C232F05A9}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|c:\\work\\aspdotnet\\videogamecharacterapi\\videogamecharacterapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0CD3C69-57E1-53BF-A39D-4F9C232F05A9}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|solutionrelative:videogamecharacterapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0CD3C69-57E1-53BF-A39D-4F9C232F05A9}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|c:\\work\\aspdotnet\\videogamecharacterapi\\videogamecharacterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0CD3C69-57E1-53BF-A39D-4F9C232F05A9}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|solutionrelative:videogamecharacterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +50,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\work\\aspdotnet\\VideoGameCharacterApi\\VideoGameCharacterApi\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "VideoGameCharacterApi\\Models\\Character.cs",
+              "ToolTip": "C:\\work\\aspdotnet\\VideoGameCharacterApi\\VideoGameCharacterApi\\Models\\Character.cs",
+              "RelativeToolTip": "VideoGameCharacterApi\\Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T15:32:44.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "VideoGameCharacterApi",
+              "DocumentMoniker": "C:\\work\\aspdotnet\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
+              "RelativeDocumentMoniker": "VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
+              "ToolTip": "C:\\work\\aspdotnet\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
+              "RelativeToolTip": "VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-19T15:16:33.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\work\\aspdotnet\\VideoGameCharacterApi\\VideoGameCharacterApi\\Program.cs",
               "RelativeDocumentMoniker": "VideoGameCharacterApi\\Program.cs",
               "ToolTip": "C:\\work\\aspdotnet\\VideoGameCharacterApi\\VideoGameCharacterApi\\Program.cs",
               "RelativeToolTip": "VideoGameCharacterApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-19T14:42:49.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "VideoGameCharacterApi.http",
               "DocumentMoniker": "C:\\work\\aspdotnet\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.http",
               "RelativeDocumentMoniker": "VideoGameCharacterApi\\VideoGameCharacterApi.http",
@@ -68,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\work\\aspdotnet\\VideoGameCharacterApi\\VideoGameCharacterApi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "VideoGameCharacterApi\\WeatherForecast.cs",
@@ -81,13 +115,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\work\\aspdotnet\\VideoGameCharacterApi\\VideoGameCharacterApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "VideoGameCharacterApi\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\work\\aspdotnet\\VideoGameCharacterApi\\VideoGameCharacterApi\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "VideoGameCharacterApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-19T14:53:56.795Z",
               "EditorCaption": ""

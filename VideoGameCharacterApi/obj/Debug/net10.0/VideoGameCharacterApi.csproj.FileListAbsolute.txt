@@ -26,10 +26,11 @@ C:\work\aspdotnet\VideoGameCharacterApi\VideoGameCharacterApi\obj\Debug\net10.0\
 C:\work\aspdotnet\VideoGameCharacterApi\VideoGameCharacterApi\obj\Debug\net10.0\staticwebassets.development.json
 C:\work\aspdotnet\VideoGameCharacterApi\VideoGameCharacterApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\work\aspdotnet\VideoGameCharacterApi\VideoGameCharacterApi\obj\Debug\net10.0\swae.build.ex.cache
-C:\work\aspdotnet\VideoGameCharacterApi\VideoGameCharacterApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\work\aspdotnet\VideoGameCharacterApi\VideoGameCharacterApi\obj\Debug\net10.0\VideoGam.A221EBBD.Up2Date
 C:\work\aspdotnet\VideoGameCharacterApi\VideoGameCharacterApi\obj\Debug\net10.0\VideoGameCharacterApi.dll
 C:\work\aspdotnet\VideoGameCharacterApi\VideoGameCharacterApi\obj\Debug\net10.0\refint\VideoGameCharacterApi.dll
 C:\work\aspdotnet\VideoGameCharacterApi\VideoGameCharacterApi\obj\Debug\net10.0\VideoGameCharacterApi.pdb
 C:\work\aspdotnet\VideoGameCharacterApi\VideoGameCharacterApi\obj\Debug\net10.0\VideoGameCharacterApi.genruntimeconfig.cache
 C:\work\aspdotnet\VideoGameCharacterApi\VideoGameCharacterApi\obj\Debug\net10.0\ref\VideoGameCharacterApi.dll
+C:\work\aspdotnet\VideoGameCharacterApi\VideoGameCharacterApi\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\work\aspdotnet\VideoGameCharacterApi\VideoGameCharacterApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
