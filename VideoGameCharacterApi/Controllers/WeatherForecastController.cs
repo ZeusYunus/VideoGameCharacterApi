@@ -22,7 +22,7 @@ namespace VideoGameCharacterApi.Controllers
             })
             .ToArray();
 
-            return Ok(result);
+            return NotFound(result);
         }
     }
 }
