@@ -11,7 +11,7 @@ namespace VideoGameCharacterApi.Controllers;
 public class VideoGameCharacterApi(IVideoGameCharactersService service) : ControllerBase
 {
     [HttpGet]
-    public async Task<ActionResult<List<CharacterResponse>>> GetCharacter()
+    public async Task<ActionResult<List<CharacterResponse>>> GetCharacter() 
         => Ok(await service.GetAllCharactersAsync());
 
     [HttpGet("{id}")]
@@ -19,5 +19,26 @@ public class VideoGameCharacterApi(IVideoGameCharactersService service) : Contro
     {
         var character = await service.GetCharacterByIdAsync(id);
         return character is null ? NotFound("Character with the given id was not found.") : Ok(character);
+    }
+
+    [HttpPost]
+    public async Task<ActionResult<CharacterResponse>> AddCharacter(CreateCharacterRequest character)
+    {
+        var createdCharacter = await service.AddCharacterAsync(character);
+        return CreatedAtAction(nameof(GetCharacter), new { id = createdCharacter.Id }, createdCharacter);
+    }
+
+    [HttpPut("{id}")]
+    public async Task<ActionResult> UpdateCharacter(int id, UpdateCharacterRequest character)
+    {
+        var update = await service.UpdateCharacterAsync(id, character);
+        return update ? NoContent() : NotFound("Character with the given Id was not found.");
+    }
+
+    [HttpDelete("{id}")]
+    public async Task<ActionResult> DeleteCharacter(int id)
+    {
+        var deleted = await service.DeleteCharacterAsync(id);
+        return deleted ? NoContent() : NotFound("Character with the given Id was not found.");
     }
 }
