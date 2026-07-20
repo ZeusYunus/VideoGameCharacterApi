@@ -28,9 +28,16 @@ public class VideoGameCharacterApiService(AppDbContext context) : IVideoGameChar
         };
     }
 
-    public Task<bool> DeleteCharacterAsync(int id)
+    public async Task<bool> DeleteCharacterAsync(int id)
     {
-        throw new NotImplementedException();
+        var characterToDelete = await context.Characters.FindAsync(id);
+        if (characterToDelete is null) 
+            return false;
+
+        context.Characters.Remove(characterToDelete);
+        await context.SaveChangesAsync();
+        
+        return true;
     }
 
     public async Task<List<CharacterResponse>> GetAllCharactersAsync()
